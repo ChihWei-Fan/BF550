@@ -1,1 +1,1 @@
-# BF550_final_project
+# Homeworks and final project in BF550
